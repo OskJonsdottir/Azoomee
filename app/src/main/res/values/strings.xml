@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Azoomee</string>
+    <string name="title_activity_login">Azoomee</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="title_activity_profile">Profile</string>
+
+    <string name="rest_error">An error has occurred while trying to connect to the server:</string>
+    <string name="loginFailure">Failure to login</string>
+</resources>

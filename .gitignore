@@ -1,0 +1,11 @@
+/local.properties
+.DS_Store
+build/
+gradle/
+.idea/
+.gradle/
+*.iml
+notas
+gradlew.*
+gradlew
+*~
